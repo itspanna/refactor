@@ -1,7 +1,8 @@
 # repasscon
 
-Konzolos jelszótároló program kezdemény, refaktorálásra szánva.
+A feladat teljesitve.
 
-## Feladat
+2025-01-08
 
-Refaktoráld a tisztakód elvei szerint
+Panna Teleki ( itspanna )
+
